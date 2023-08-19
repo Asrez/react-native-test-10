@@ -13,6 +13,11 @@
 
 <h3>اسکرین شات</h3>
 
+صفحه خطا اینترنت:
+
+![image](https://github.com/Asrez/react-native-test-10/assets/2658040/164bcf7c-3a27-4d5c-ac1f-3218ae5255fc)
+
+
 صفحه اسپلش:
 
 ![image](https://github.com/Asrez/react-native-test-10/assets/2658040/859994f2-7976-4032-8ce1-b7d07ed6bfee)
