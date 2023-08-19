@@ -11,8 +11,9 @@
 
 زمان داوری: یک شنبه صبح
 
-<h3>اسکرین شات</h3>
+سایت جهت برداشتن اطلاعات، متن، و تصاویر: https://fidibo.com
 
+<h3>اسکرین شات</h3>
 صفحه خطا اینترنت:
 
 ![image](https://github.com/Asrez/react-native-test-10/assets/2658040/164bcf7c-3a27-4d5c-ac1f-3218ae5255fc)
